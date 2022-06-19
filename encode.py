@@ -1,5 +1,5 @@
 # Автор: Василь Онуфрійчук
-# Генератор словника.
+# Кодувальник.
 # https://github.com/8a7l/py_text_encode_decode-Caesar-s-method-
 vocabulary='''your vocabulary characters'''
 input_text=input('input text:')
